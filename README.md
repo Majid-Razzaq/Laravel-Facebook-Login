@@ -47,7 +47,8 @@ npm run build
 1)  Install the Laravel Socialite package using Composer:
    ```javascript
     composer require laravel/socialite
-    ```
+   ```
+
 2) Configure your config/services.php file with your Facebook app keys:
 -  'facebook' => [
 -  'client_id' => 'Your App ID', 
