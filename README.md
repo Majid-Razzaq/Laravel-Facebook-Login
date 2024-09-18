@@ -50,11 +50,13 @@ npm run build
    ```
 
 2) Configure your config/services.php file with your Facebook app keys:
--  'facebook' => [
--  'client_id' => 'Your App ID', 
--  'client_secret' => 'Your App Secret',
--  'redirect' => 'http://localhost:8000/auth/facebook/callback',
--  ],
+   ```
+   'facebook' => [
+   'client_id' => 'Your App ID', 
+   'client_secret' => 'Your App Secret',
+   'redirect' => 'http://localhost:8000/auth/facebook/callback',
+   ],
+   ```
 
-3) Create a Facebook app here (https://developers.facebook.com/apps), and copy the App ID and App Secret into the above configuration.
+4) Create a Facebook app here (https://developers.facebook.com/apps), and copy the App ID and App Secret into the above configuration.
 
