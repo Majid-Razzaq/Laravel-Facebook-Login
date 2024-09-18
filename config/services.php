@@ -34,6 +34,7 @@ return [
             'channel' => env('SLACK_BOT_USER_DEFAULT_CHANNEL'),
         ],
     ],
+    
     'facebook' => [
             'client_id' => 'your_fb_client_id',
             'client_secret' => 'secret_id',
