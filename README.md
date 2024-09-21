@@ -2,7 +2,7 @@
     <a href="https://laravel.com" target="_blank">
         <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
     </a>
-    <a href="https://facebook.com" target="_blank" style="margin-left: 20px;">
+    <a href="https://facebook.com" target="_blank" style="margin-left: 15px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="150" alt="Facebook Logo">
     </a>
 </p>
